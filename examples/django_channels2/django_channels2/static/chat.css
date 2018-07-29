@@ -1,0 +1,1 @@
+body{display:flex;flex-direction:column;height:100vh;margin:0}#app,body>.container{display:flex;flex-direction:column;flex-grow:1}#app{height:100%;padding:1em}#messages li{list-style:none}#messages{border:1px solid #ccc;flex-grow:1;margin:0 0 1em;overflow:auto;padding:.5em}input{border:1px solid #555;width:100%}.disconnected input,.disconnected input:focus{border-color:#e55}

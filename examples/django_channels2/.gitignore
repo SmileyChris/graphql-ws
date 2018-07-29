@@ -1,0 +1,3 @@
+.cache/
+node_modules/
+django_channels2/static/chat.map
